@@ -4,7 +4,7 @@
 ## ks_box.py
 ks有监督分箱方法
 
-## baseline17.py
+## blending.py
 机器学习中的 blending 方法
 
 
