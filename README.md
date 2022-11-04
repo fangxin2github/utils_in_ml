@@ -6,3 +6,7 @@ ks有监督分箱方法
 
 ## baseline17.py
 机器学习中的 blending 方法
+
+
+## stacking.py
+stacking 两层的方法
